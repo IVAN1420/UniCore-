@@ -196,7 +196,7 @@ Redis 6.0+
 Docker 20.10+ (可选)
 三步启动项目
 # 1. 克隆项目
-git clone https://github.com/your-username/UniCore.git
+git clone https://github.com/YUCHEN1420@outlook.com/UniCore.git
 cd UniCore
 
 # 2. 后端启动
@@ -354,38 +354,3 @@ Fork 本仓库
 提交更改 (git commit -m 'Add some AmazingFeature')
 推送到分支 (git push origin feature/AmazingFeature)
 开启 Pull Request
-📄 许可证
-本项目基于 MIT 许可证 - 查看 LICENSE文件了解详情
-📞 支持与联系
-如有问题或建议，请通过以下方式联系：
-📧 邮箱：your.email@example.com
-🐛 提交Issue
-💬 技术讨论群：加入Discord
-🎯 后续规划
-短期目标 (v1.1)
-[ ] 集成OAuth2.0第三方登录
-[ ] 添加实时消息通知
-[ ] 实现数据可视化面板
-[ ] 支持多租户架构
-长期愿景
-打造成为开源领域最易用的用户管理中台
-支持插件化扩展机制
-提供SaaS化部署方案
-构建开发者生态系统
-⭐ 如果这个项目对您有帮助，欢迎Star支持！
-最后更新: 2024年1月
-📁 补充文件清单
-为了让您的GitHub仓库更加专业，建议创建以下文件：
-CONTRIBUTING.md​ - 贡献者指南
-CHANGELOG.md​ - 版本更新日志
-API.md​ - 详细API文档
-docker-compose.prod.yml​ - 生产环境配置
-.github/​ 目录 - 包含Issue/PR模板
-这个README设计体现了以下几个专业特点：
-完整的技术栈展示​ - 通过徽章和表格清晰展示
-清晰的架构说明​ - 模块化、层次分明
-详尽的部署指南​ - 支持多种部署方式
-工程化实践​ - 包含测试、CI/CD、开发规范
-可扩展性说明​ - 展示项目的发展潜力
-视觉层次清晰​ - 通过emoji和格式提升可读性
-社区友好​ - 明确的贡献指南和支持渠道
